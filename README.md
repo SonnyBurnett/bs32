@@ -1,6 +1,14 @@
 # bs32
 (c) Taco Bakker
-Simple build server for continuous integration demo
+
+Simple build server for continuous integration demo.
+Installation:
+install Vagrant, Git and VirtualBox
+clone this repository
+cd to the directory with the Vagrantfile
+type: vagrant up
+
+***
 
 With this extremely simple setup you can do the following:
 
